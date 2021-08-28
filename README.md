@@ -27,7 +27,7 @@ Gender
 
 Birth Year
 
-![](Aspose.Words.4f987563-12af-48c1-ad5e-8379a6e4efbf.001.png)
+![image](https://user-images.githubusercontent.com/72630461/131227735-864715b0-7b66-47f9-9cf6-d8fcc30ff1ac.png)
 
 
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them ([Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data)). These files had more columns and they differed in format in many cases. Some [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward. In the Data Wrangling course that comes later in the Data Analyst Nanodegree program, students learn how to wrangle the dirtiest, messiest datasets, so don't worry, you won't miss out on learning this important skill!
